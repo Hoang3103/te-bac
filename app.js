@@ -1,12 +1,12 @@
 var messages = [
     "Chắc chưa ?",
     "Thật lòng đi",
-    "Anh có con khác đúng k",
-    "Tệ bạc !!",
-    "K giấu được em đâu",
-    "Đừng hòng giấu được",
-    "Em biết hết rồi đấy",
-    "Cho anh cơ hội được thú nhận",
+    "Ứ ừ",
+    "Tẹeeeeee",
+    "Khonggggg",
+    "ứ ừ",
+    "Anh iu em",
+    "Yêu em bé",
 ];
 var button = document.getElementById('yes-button');
 var alertBox = document.getElementById("myAlert");
